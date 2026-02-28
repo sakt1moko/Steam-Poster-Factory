@@ -6,7 +6,7 @@ An automated, AI-assisted Python tool running on Google Colab that generates hig
 
 | Box Poster | Vertical Poster | Horizontal Poster | Logo Box |
 | :---: | :---: | :---: | :---: |
-| [!Berserk Boy_BoxPoster_v1](https://github.com/user-attachments/assets/2eae8811-67e8-403a-ab98-8cbd4b9b7d9e)
+| [Berserk Boy_BoxPoster_v1](https://github.com/user-attachments/assets/2eae8811-67e8-403a-ab98-8cbd4b9b7d9e)
 ] | [ARRASTRA AQUÍ LA IMAGEN DEL VERTICAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL HORIZONTAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL LOGO BOX] |
 
 ## ✨ Features
