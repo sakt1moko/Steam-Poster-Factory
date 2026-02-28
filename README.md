@@ -6,7 +6,7 @@ An automated, AI-assisted Python tool running on Google Colab that generates hig
 
 | Box Poster | Vertical Poster | Horizontal Poster | Logo Box |
 | :---: | :---: | :---: | :---: |
-| [![Berserk Boy_BoxPoster_v1](https://github.com/user-attachments/assets/848184b7-7bad-457c-935c-14f279675ed6)] | [ARRASTRA AQUÍ LA IMAGEN DEL VERTICAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL HORIZONTAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL LOGO BOX] |
+| [Berserk Boy_BoxPoster_v1](https://github.com/user-attachments/assets/848184b7-7bad-457c-935c-14f279675ed6) | [ARRASTRA AQUÍ LA IMAGEN DEL VERTICAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL HORIZONTAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL LOGO BOX] |
 
 ## ✨ Features
 * **Fully Automated Data Fetching:** Automatically searches the Steam API, SteamSpy, Wikipedia, and SteamGridDB to fetch game metadata (Year, Developer, Genres) and high-res art.
