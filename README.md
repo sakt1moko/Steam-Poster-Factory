@@ -5,12 +5,9 @@ An automated, AI-assisted Python tool running on Google Colab that generates hig
 ## 🖼️ Poster Styles Gallery
 
 | Box Poster | Vertical Poster | Horizontal Poster | Logo Box |
-| https://github.com/user-attachments/assets/b68ccde8-90ad-4969-8416-e3f030631bb8| https://github.com/user-attachments/assets/5062f70c-dea0-4a05-b0d0-48c78de78076 | https://github.com/user-attachments/assets/059c7ee4-5941-44d0-a4bd-7f483e3c65eb | https://github.com/user-attachments/assets/54ec6a0e-1568-4bb8-8635-d22839e5822b |
-| [![Berserk Boy_BoxPoster_v1]()
-POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL VERTICAL ![Berserk Boy_VerticalPoster_v2]()
-POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL HORIZONTAL POSTER]![Berserk Boy_HorizontalPoster_v1](https://github.com/user-attachments/assets/059c7ee4-5941-44d0-a4bd-7f483e3c65eb)
- | [ARRASTRA AQUÍ LA IMAGEN DEL LOGO BOX] ![Berserk Boy_LogoBox_v1](
-|
+| :---: | :---: | :---: | :---: |
+| [ARRASTRA AQUÍ ![Berserk Boy_BoxPoster_v1](https://github.com/user-attachments/assets/848184b7-7bad-457c-935c-14f279675ed6)
+LA IMAGEN DEL BOX POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL VERTICAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL HORIZONTAL POSTER] | [ARRASTRA AQUÍ LA IMAGEN DEL LOGO BOX] |
 
 ## ✨ Features
 * **Fully Automated Data Fetching:** Automatically searches the Steam API, SteamSpy, Wikipedia, and SteamGridDB to fetch game metadata (Year, Developer, Genres) and high-res art.
